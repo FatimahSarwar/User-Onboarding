@@ -44,7 +44,7 @@ return (
 </label>
 <label>Password
     <input 
-    value = {values.Name}
+    value = {values.Password}
     onChange = {onChange}
     name = "Password"
     type = 'password'
